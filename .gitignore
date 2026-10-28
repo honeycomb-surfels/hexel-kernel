@@ -218,3 +218,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local release builds
+build/
+dist/
+*.egg-info/
+*.so
+__pycache__/
+.pytest_cache/

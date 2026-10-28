@@ -1,0 +1,3 @@
+recursive-include gsplat *.cu *.cuh *.h *.hpp *.inl *.cpp *.txt
+recursive-include licenses *
+include LICENSE NOTICE README.md

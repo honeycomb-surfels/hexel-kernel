@@ -1,0 +1,11 @@
+This distribution includes software from NYU-ICL/Image-GS, pinned to
+03088368d42684fb54225c981cfd94b58cc0393a, and its gsplat-derived rasterization
+code from nerfstudio-project/gsplat. Image-GS retains its NYU Immersive
+Computing Lab MIT notice. The inherited gsplat components retain Apache-2.0
+terms; the upstream license is included in licenses/gsplat-Apache-2.0.txt.
+
+The gsplat package is adapted here for Image-GS and Hexel rasterization.
+Hexel additions and release packaging are modifications. Original upstream
+copyright and license notices are preserved. Bundled GLM headers retain
+third-party terms in gsplat/cuda/csrc/third_party/glm/copying.txt.
+The root MIT license does not replace these inherited terms.
